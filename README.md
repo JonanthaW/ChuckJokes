@@ -13,8 +13,7 @@ Um simples App que gera piadas sobre Chuck Norris.
 
 ### :bulb: Tela da aplicação
 
-![image](https://github.com/JonanthaW/Yu-Ken-Po/blob/main/assets/example1.jpg)
-![image](https://github.com/JonanthaW/Yu-Ken-Po/blob/main/assets/example2.jpg)
+![image](https://github.com/JonanthaW/ChuckJokes/blob/main/assets/example1.jpg)
 
 ### :computer: Downloading content
 
